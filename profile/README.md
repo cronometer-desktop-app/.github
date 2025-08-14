@@ -17,7 +17,6 @@ Run the `.exe` file to start the application.
 ## 📸 Overview
 A quick look at key parts in action:
 
-![Main Dashboard](https://womenlovetech.com/wp-content/uploads/2020/12/Screen-Shot-2021-02-01-at-9.27.07-PM.png)  
 ![Nutrition Analysis](https://cdn1.cronometer.com/wf-2025-07-29/images/Cronometer-Pro---Laptop-Client-Screen.png-converted.webp)  
 
 ---
